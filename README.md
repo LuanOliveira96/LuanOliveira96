@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my GitHub profile.
+<!--# Hi there 👋 Welcome to my GitHub profile.
 ## My name is Luan and my nickname is LuanOliveira96. I'm 27 years old and I live in Rio claro (SP). I'm in a career transition and I'm learning a lot about programming and Data Science (And I'm loving it).
 
 <!--
