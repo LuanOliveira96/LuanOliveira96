@@ -1,9 +1,18 @@
-### Hi there 👋
+# Hi there 👋 Welcome to my GitHub profile.
+## My name is Luan and my nickname is LuanOliveira96. I'm 27 years old and I live in Rio claro (SP). I'm in a career transition and I'm learning a lot about programming and Data Science (And I'm loving it).
 
 <!--
 **LuanOliveira96/LuanOliveira96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+https://gist.github.com/rxaviers/7360908
+https://github.com/jeniblodev
+https://www.alura.com.br/artigos/como-trabalhar-com-markdown
+https://www.alura.com.br/artigos/escrever-bom-readme
+https://devicon.dev/
+https://avatoon.me/
+https://myoctocat.com/
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> (Adicionar logos)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
